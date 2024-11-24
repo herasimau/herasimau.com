@@ -1,5 +1,6 @@
 AUTHOR = "Leanid Herasimau"
 SITENAME = "Leanid Herasimau"
+THEME = 'theme'
 SITEURL = ""
 SITE_DESCRIPTION = (
     "My personal website. Here, you can read my blog posts, and learn about my"
