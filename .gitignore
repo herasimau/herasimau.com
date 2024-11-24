@@ -1,0 +1,13 @@
+.env-photo/
+.photo/
+uploader/
+env/
+.env/
+output/
+__pycache__/
+.DS_Store
+*.bak
+.tool-versions
+.ztr-directory
+.cachedir/
+.env_variables
