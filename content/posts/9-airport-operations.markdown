@@ -1,4 +1,3 @@
-
 Title: Seeking Excitement: Transitioning to Spindox @Thales Airports
 Date: 2022-01-15
 

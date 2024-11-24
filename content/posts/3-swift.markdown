@@ -1,4 +1,3 @@
-
 Title: Diving into Swift: My First Steps in iOS Development
 Date: 2020-03-15
 

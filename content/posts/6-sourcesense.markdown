@@ -1,4 +1,3 @@
-
 Title: Joining Sourcesense: First Impressions and Thoughts That I Made a Mistake
 Date: 2021-03-25
 
